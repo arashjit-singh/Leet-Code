@@ -12,8 +12,3 @@ fun isPalindrome(x: Int): Boolean {
     println(num)
     return num == x
 }
-
-
-fun main(args: Array<String>) {
-    println(isPalindrome(121))
-}

@@ -9,6 +9,5 @@ fun getLargestCommonPrefix(strs: Array<String>):String {
             result += first[i]
     }
 
-    print(result)
     return result
 }
